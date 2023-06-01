@@ -5,4 +5,5 @@ The application has functionalities such as:
 - search by part of the name,
 - searching by part of the phone number,
 - deleting records.
+
 The program saves the state when closing the application.
